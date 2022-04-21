@@ -6,3 +6,4 @@ dist/
 *.egg-info/
 docs/.drawio
 **/json_schema_repo.json
+.venv

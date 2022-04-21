@@ -1,3 +1,6 @@
 [submodule "examples/0003"]
 	path = examples/0003
 	url = git@github.com:hat-edu/hat-aimm-forecast.git
+[submodule "examples/0004"]
+	path = examples/0004
+	url = git@github.com:hat-edu/hat-aimm-anomaly.git
